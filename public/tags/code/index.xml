@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on Systemtechie.de</title>
+    <link>https://systemtechie.de/tags/code/</link>
+    <description>Recent content in code on Systemtechie.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>derlinkman@systemtechie.de (DerLinkman)</managingEditor>
+    <webMaster>derlinkman@systemtechie.de (DerLinkman)</webMaster>
+    <lastBuildDate>Tue, 08 Mar 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://systemtechie.de/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code Sample</title>
+      <link>https://systemtechie.de/content/post/2016-03-08-code-sample/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <author>derlinkman@systemtechie.de (DerLinkman)</author>
+      <guid>https://systemtechie.de/content/post/2016-03-08-code-sample/</guid>
+      <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Code Sample</title>
+      <link>https://systemtechie.de/post/2016-03-08-code-sample/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <author>derlinkman@systemtechie.de (DerLinkman)</author>
+      <guid>https://systemtechie.de/post/2016-03-08-code-sample/</guid>
+      <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

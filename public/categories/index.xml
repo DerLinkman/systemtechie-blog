@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Systemtechie.de</title>
+    <link>https://systemtechie.de/categories/</link>
+    <description>Recent content in Categories on Systemtechie.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>derlinkman@systemtechie.de (DerLinkman)</managingEditor>
+    <webMaster>derlinkman@systemtechie.de (DerLinkman)</webMaster><atom:link href="https://systemtechie.de/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

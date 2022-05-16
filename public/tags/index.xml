@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Systemtechie.de</title>
+    <link>https://systemtechie.de/tags/</link>
+    <description>Recent content in Tags on Systemtechie.de</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>derlinkman@systemtechie.de (DerLinkman)</managingEditor>
+    <webMaster>derlinkman@systemtechie.de (DerLinkman)</webMaster>
+    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://systemtechie.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>example</title>
+      <link>https://systemtechie.de/tags/example/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <author>derlinkman@systemtechie.de (DerLinkman)</author>
+      <guid>https://systemtechie.de/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photoswipe</title>
+      <link>https://systemtechie.de/tags/photoswipe/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <author>derlinkman@systemtechie.de (DerLinkman)</author>
+      <guid>https://systemtechie.de/tags/photoswipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bigimg</title>
+      <link>https://systemtechie.de/tags/bigimg/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <author>derlinkman@systemtechie.de (DerLinkman)</author>
+      <guid>https://systemtechie.de/tags/bigimg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>math</title>
+      <link>https://systemtechie.de/tags/math/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <author>derlinkman@systemtechie.de (DerLinkman)</author>
+      <guid>https://systemtechie.de/tags/math/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://systemtechie.de/tags/code/</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <author>derlinkman@systemtechie.de (DerLinkman)</author>
+      <guid>https://systemtechie.de/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://systemtechie.de/tags/markdown/</link>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      <author>derlinkman@systemtechie.de (DerLinkman)</author>
+      <guid>https://systemtechie.de/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
